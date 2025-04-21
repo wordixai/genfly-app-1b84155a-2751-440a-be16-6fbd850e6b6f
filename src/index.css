@@ -97,5 +97,19 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   }
+}
+
+/* Custom styles for the Taobao coupon page */
+.bg-orange-500 {
+  background-color: #FF6A00;
+}
+
+.text-red-500 {
+  color: #FF4D4D;
+}
+
+.bg-red-500 {
+  background-color: #FF4D4D;
 }
